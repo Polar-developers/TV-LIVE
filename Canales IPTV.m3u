@@ -1,7 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN [ARG]" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="DEPORTES",DEPORTES | ESPN [ARG]
-http://papus.pro:2082/live/Andres2924/W5kFDStZTzXV/485315.m3u8
+#EXTINF:-1 group-title="Películas" type="movie" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/guardianes_de_la_galaxia_volumen_3.jpg",| Peliculas | Guardianes De La Galaxia Vol 3 (2023) 
+http://notabasica.com/612132/Guardianes.de.la.galaxia.Vol.3.2023.lati.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 [ARG]" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="DEPORTES",DEPORTES | ESPN 2 [ARG]
-http://papus.pro:2082/live/Andres2924/W5kFDStZTzXV/485316.m3u8
+#EXTINF:-1 group-title="Películas" type="movie" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/super_mario_bros_la_pelicula.jpg",| Peliculas | Super Mario Bros (2023)
+http://notabasica.com/612132/The.Super.Mario.Bros.Movie.2023.lati.mp4
+
+#EXTINF:-1 group-title="Películas" type="movie" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/gato_con_botas_el_ultimo_deseo.jpg",| Peliculas | Gato Con Botas (2022) 
+http://notabasica.com/612132/Puss.in.Boots.The.Last.Wish.2022.lati.mp4
+
+#EXTINF:-1 group-title="Películas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",| Peliculas | Las Crónicas De Narnia 1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/cronicas%20de%20narnia.mkv
+
+#EXTINF:-1 group-title="Películas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z6LVJXEmY8E6s57uf8cV3RlWvws.jpg",| Peliculas | Las Crónicas De Narnia 3 (2010)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv
+
+#EXTINF:-1 group-title="Películas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",| Peliculas | Las Crónicas De Narnia 2 (2008)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv
+
+
+#EXTINF:-1 group-title="Películas"  type="movie" tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",| Peliculas | Toy Story 1 (1995)
+https://dl.dropboxusercontent.com/s/sqlabqu4wmlj8rh/SalynPM-T.S.1.mp4
+
+#EXTINF:-1 group-title="Películas"  type="movie" tvg-logo="https://es.web.img2.acsta.net/pictures/17/08/09/11/26/105383.jpg",| Peliculas | Toy Story 2 (1999)
+https://dl.dropboxusercontent.com/s/r9f1djbxpjjb1sv/SalynPM-T.S.2.mp4
+
+#EXTINF:-1 group-title="Películas" type="movie" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/72/55/90/20125635.jpg",| Peliculas | Toy Story 3 (2010)
+http://offshore.lat:8080/play/sw6BaYiFXDX42Dcv9OhZP2m84h_FYLjpffwjb5-r_mMx0Vuf-tXZE52yjIUTy9YZ#.mkv
+
+#EXTINF:-1 group-title="Películas"  type="movie" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/83/06/92/20070785.jpg",| Peliculas | Shrek 2 (2004)
+https://dl.dropboxusercontent.com/s/ityoodit9ly3mgg/SalynPM-S.2.mp4
+
+#EXTINF:-1 group-title="Películas"  type="movie" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/23/20/20054548.jpg",| Peliculas | Shrek 3 (2007)
+https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4
+
+#EXTINF:-1 group-title="Películas"  type="movie" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/49/75/20235509.jpg",| Peliculas | Shrek 4 (2010)
+https://dl.dropboxusercontent.com/s/mkcb2x4xfnios5e/SalynPM-S.4.mp4
+
+#EXTINF:-1 group-title="Películas"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",| Peliculas | El Grinch (2018)
+http://vod.tuxchannel.mx/peliculas/720/el%20grinch.mkv
