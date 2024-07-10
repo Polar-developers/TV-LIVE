@@ -1,0 +1,57 @@
+#EXTM3U
+
+### TV PUBLICA 
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20Publica.jpg" group-title="ARGENTINA",ARG | TV PUBLICA
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74305.m3u8
+
+
+### TN
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TN" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20TN.png" group-title="ARGENTINA",ARG | TN
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74304.m3u8
+
+
+### TELESUR
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TELESUR" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20Telesur.png" group-title="ARGENTINA",ARG | TELESUR
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74297.m3u8
+
+
+### TELEFE
+
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="ARG | TELEFE" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20Telefe.jpg" group-title="ARGENTINA",ARG | TELEFE
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74293.m3u8
+
+
+### NET TV
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | NET TV" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20NET%20TV.png" group-title="ARGENTINA",ARG | Net TV
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74289.m3u8
+
+### LN*
+#EXTINF:-1 tvg-id="" tvg-name="ARG | LN+" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20LN%2B.jpg" group-title="ARGENTINA",ARG | LN+
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74286.m3u8
+
+### GARAGE TV
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | GARAGE TV" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20GARAGE%20TV.png" group-title="ARGENTINA",ARG | GARAGE TV
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74283.m3u8
+
+
+### ENCUENTRO
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ENCUENTRO" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20ENCUENTRO%20TV.png" group-title="ARGENTINA",ARG | ENCUENTRO
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74279.m3u8
+
+
+### EL TRECE
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | EL TRECE" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20EL%20TRECE%20TV.png" group-title="ARGENTINA",ARG | EL TRECE
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74276.m3u8
+
+
+### EL NUEVE TV
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | EL NUEVE" tvg-logo="https://raw.githubusercontent.com/Polar-developers/Logos-Tv/main/TV%20CANAL%209%20TV.PNG" group-title="ARGENTINA",ARG | EL NUEVE
+http://pro.boxdigital.org:8080/live/PabloG25/dX9eNkWKDQT9/74269.m3u8
